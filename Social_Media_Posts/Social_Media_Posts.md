@@ -2,7 +2,7 @@
 
 ### Post 1 – Kickoff Announcement (Day 1 or 2 of Hacktoberfest)
 
-![Kickoff Announcement](Social_Media_Posts/Images/post1.jpeg)
+![Kickoff Announcement](Images/post1.jpeg)
 
 🌍 OpenGov Africa is joining **#Hacktoberfest2025**! 🚀  
 This October, we’re inviting **developers and non-coders worldwide** to contribute to open-source projects that advance **transparency, civic innovation, and digital inclusion**.
@@ -21,7 +21,7 @@ Let’s build the future of open government, together. 💡
 
 ### Post 2 – Community Invitation (mid-week push)
 
-![Community Invitation](Social_Media_Posts/Images/post2.jpeg)
+![Community Invitation](Images/post2.jpeg)
 
 💻 Hacktoberfest is here — and **everyone is welcome to contribute!** 🎉  
 
@@ -39,7 +39,7 @@ OpenGov Africa is working on projects that advance **open data, accountability, 
 
 ### Post 3 – Mid-event Reminder / Engagement
 
-![Mid-event Reminder](Social_Media_Posts/Images/post3.jpeg)
+![Mid-event Reminder](Images/post3.jpeg)
 
 🚀 Already coding for **#Hacktoberfest2025**? Beginners and pros alike — your contributions matter!  
 
@@ -51,7 +51,7 @@ Join OpenGov Africa’s open-source journey and help us create tools for **trans
 
 📢 Let’s shape the future of civic tech, together.  
 🔗 Register: [https://hacktoberfest.com](https://hacktoberfest.com)  
-💬 Join our community: 💬 Join our community: [Discord](https://discord.gg/Eswe4cvvMM) & [GitHub Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
+💬 Join our community: [Discord](https://discord.gg/Eswe4cvvMM) & [GitHub Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
 
 ---
 
@@ -63,7 +63,7 @@ Contribute to open-source projects driving **#CivicTech**, transparency & digita
 Beginner-friendly & real-world impact.  
 🔗 Join: [https://hacktoberfest.com](https://hacktoberfest.com)  
 #OpenSource #BeginnerFriendly
-💬 Join our community: 💬 Join our community: [Discord](https://discord.gg/Eswe4cvvMM) & [GitHub Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
+💬 Join our community: [Discord](https://discord.gg/Eswe4cvvMM) & [GitHub Discussions](https://github.com/OpenGovAfrica/OpenGovAfrica/discussions)
 
 ---
 
